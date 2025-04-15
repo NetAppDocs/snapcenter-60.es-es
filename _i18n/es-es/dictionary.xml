@@ -5804,7 +5804,6 @@
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">Cómo restaurar desde el almacenamiento secundario en SMBR con SnapCenter</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">Recuperación de Microsoft Exchange Mail desde SnapVault mediante SMBR</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="e1470cbc380c0e4285ea434aa1f30381" category="doc">Preparar los sistemas de almacenamiento para la replicación con SnapMirror y SnapVault</block>
   <block id="e53c11d95478892635e2a7753106adc5" category="summary">Antes de añadir un host e instalar los paquetes de plugins, debe cumplir con todos los requisitos.</block>
   <block id="690761e3a499ee562da842d3bd6f2db0" category="doc">Requisitos previos para añadir hosts e instalar el plugin de SnapCenter para Microsoft Exchange Server</block>
@@ -8409,7 +8408,6 @@
   <block id="2a1a78f96ec6b03f3ccdd06b708e6f1a" category="list-text">(Opcional) reemplace los archivos de configuración del plugin de SnapCenter para SQL Server desde un backup de recuperación ante desastres (DR) a la máquina nueva.</block>
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">Importe las programaciones de Windows y SQL desde la carpeta del plugin de SnapCenter para SQL Server desde el backup de recuperación ante desastres.</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link-macro">API de recuperación ante desastres</block>
-  <block id="ab9238ca6f628634f6f6f2cf63502cdb" category="paragraph">Vea <block ref="44de5c9fafab2e4e76e19e3717abc2e2" category="inline-link-macro-rx"></block> el vídeo.</block>
   <block id="a8827ae14ad272b19b5554bf29b0dd50" category="summary">Una vez que el almacenamiento primario del plugin de SnapCenter para SQL Server vuelve a estar en línea, debe recuperar el almacenamiento principal.</block>
   <block id="c259d7aac6b257b97bf45bb54cdbfb28" category="doc">Conmutación tras recuperación del plugin de SnapCenter para almacenamiento secundario de SQL Server al almacenamiento principal</block>
   <block id="7ffc5c3595639b4cfa7e25819a476178" category="list-text">Coloque el plugin de SnapCenter para SQL Server en el modo *Mantenimiento* de la página Managed hosts.</block>
@@ -9970,4 +9968,6 @@
   <block id="27c157ca432e76f965ac30465e4a7d94" category="paragraph">Es posible configurar NLB para configurar SnapCenter High Availability. Debe configurar manualmente NLB fuera de la instalación de SnapCenter para tener alta disponibilidad.</block>
   <block id="fc8e535c7339f77157a0f93f32cb1f80" category="list-text">Los flujos de trabajo de montaje y catálogo de Oracle y SAP HANA no son compatibles con los backups de almacenamiento de objetos, pero sí con las copias Snapshot.</block>
   <block id="2128757ca4207f5d5000cd4894d8c58f" category="list-text">No se admiten los clones de Oracle PDB para los backups de almacenamiento de objetos, pero sí para las Snapshot.</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">Vea <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> el vídeo.</block>
 </blocks>
