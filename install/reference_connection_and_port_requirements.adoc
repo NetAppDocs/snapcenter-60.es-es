@@ -153,9 +153,9 @@ Complementos compatibles con NetApp para SnapCenter
  a| 
 9090 (HTTPS), fija
 
-Se trata de un puerto interno que se usa solo en el host del plugin personalizado; no son obligatorias las excepciones de firewall.
+Este es un puerto interno que se usa solo en el host de complemento compatible con NetApp; no se requiere excepción de firewall.
 
-La comunicación entre SnapCenter Server y los plugins personalizados pasa a través del puerto 8145.
+La comunicación entre SnapCenter Server y los complementos compatibles con NetApp se enruta a través del puerto 8145.
 
 
 

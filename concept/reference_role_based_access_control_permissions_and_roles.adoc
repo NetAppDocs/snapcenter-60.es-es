@@ -63,10 +63,6 @@ SnapCenter otorga los siguientes permisos:
 * Consola
 * Leídos
 * Restaurar
-+
-** Restauración de volúmenes completa (solo para plugins personalizados)
-
-
 * Recurso
 +
 El administrador debe otorgar privilegios de plugins para que los no administradores realicen operaciones de detección de recursos.
