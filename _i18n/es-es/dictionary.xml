@@ -2351,7 +2351,6 @@
   <block id="29e256a27c9d420cee02c5cda005de01" category="paragraph">En la tabla siguiente se enumeran los distintos puertos y sus valores predeterminados.</block>
   <block id="3672cca688eb0474cd3fee2add1a2067" category="cell">Tipo de puerto</block>
   <block id="4d4690457f78e9e5cbfbcd0e36fbeff0" category="cell">Puerto predeterminado</block>
-  <block id="ed00b70cc595a411eff2cc42510a291f" category="paragraph">Puerto SnapCenter</block>
   <block id="b213e31ffc319fa7b61f00a8dfad6e75" category="paragraph">8146 (HTTPS), bidireccional, personalizable, como en la url _\https://server:8146_</block>
   <block id="57f72d0cb40826596637a0e2fc16a647" category="paragraph">Se usa para la comunicación entre el cliente SnapCenter (el usuario de SnapCenter) y el servidor SnapCenter. También se utiliza para establecer la comunicación de los hosts del plugin con SnapCenter Server.</block>
   <block id="c90d9871b4b86a10a62cd2bf2c1ea688" category="inline-link">Instale el servidor SnapCenter con el asistente de instalación.</block>
@@ -9552,4 +9551,5 @@
   <block id="cc8f8aee65ee74fabf32da5ac0a4b95c" category="list-text">Si la actualización falla, limpie la instalación fallida, reinstale la versión anterior de SnapCenter y restaure la base de datos NSM a su estado anterior.</block>
   <block id="88d9e24753477cfb09f25b21c0a59b9e" category="paragraph">SnapCenter realiza las actualizaciones de SnapMirror y SnapVault después de completar la operación de instantánea.  Las actualizaciones de SnapMirror y SnapVault se realizan como parte del trabajo de SnapCenter .  Si está utilizando la sincronización activa de SnapMirror , utilice las programaciones predeterminadas de SnapMirror o SnapVault tanto para la sincronización activa de SnapMirror como para las relaciones asincrónicas.</block>
   <block id="ea1c96f839915f73d25b910bbc92b734" category="list-text">Datos que se encuentran en sistemas primarios y secundarios de ONTAP FAS, AFF o ASA y están protegidos en el almacenamiento de objetos y archivos en la nube mediante la integración de respaldo y recuperación de NetApp</block>
+  <block id="e6f36a956625505e0a3733e3e0073fa0" category="paragraph">Puerto web de SnapCenter</block>
 </blocks>
